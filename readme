@@ -1,3 +1,2 @@
-重写引用
-
-https://raw.githubusercontent.com/L0ngxhn/myselfAdject/refs/heads/main/tailing_ad_reject.conf
+[rewrite_remote]
+https://raw.githubusercontent.com/L0ngxhn/myselfAdject/main/tailing_ad_reject.conf, tag=TailG广告拦截, update-interval=86400, opt-parser=true, enabled=true
